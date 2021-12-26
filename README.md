@@ -28,6 +28,7 @@ import useStateCallback from 'set-state-callback'
 ```javascript
 import useStateCallback from 'set-state-callback'
 
+// same sytax as the hooks
 const [state,setState]= useStateCallback();
 
 const testFunc=()=>{
