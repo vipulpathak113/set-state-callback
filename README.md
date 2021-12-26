@@ -28,13 +28,14 @@ import useStateCallback from 'set-state-callback'
 ```javascript
 import useStateCallback from 'set-state-callback'
 
+// same sytax as the hooks
 const [state,setState]= useStateCallback();
 
 const testFunc=()=>{
 
 setState(newValueToSet,(newValue)=>{
 
-    console.log(newValue) // This will be the new value you just in the state.
+    console.log(newValue) // This will be the new value you just set in the state.
     
     //Now you get the callback for setState where you can proceed using the latest value
 
