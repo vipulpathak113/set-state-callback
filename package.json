@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/Giancarl021/callback-chunk.git",
+  "repository": "https://github.com/vipulpathak113/set-state-callback",
   "author": "Vipul Pathak",
   "license": "MIT",
   "keywords": [
