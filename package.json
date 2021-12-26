@@ -1,0 +1,19 @@
+{
+  "name": "set-state-callback",
+  "version": "1.0.0",
+  "description": "This package will be used in getting set state callback in functional component using hooks",
+  "main": "set-state-callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vipul Pathak",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "hooks",
+    "set state callback"
+  ],
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
